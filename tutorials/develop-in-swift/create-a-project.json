@@ -2882,7 +2882,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "Learn about three key areas of Xcode: the navigator, the editor, and the preview.",
+                      "text": "Découvrez les trois éléments clés de Xcode : le navigateur, l'éditeur et la fenêtre d'aperçu.",
                       "type": "text"
                     }
                   ],
@@ -2899,7 +2899,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "The project navigator displays all the files in your project. Note that ContentView is selected.",
+                      "text": "Le navigateur de projet affiche tous les fichiers de votre projet. Notez que ContentView est sélectionné.",
                       "type": "text"
                     }
                   ],
@@ -2911,7 +2911,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "The navigator is the leftmost column in the Xcode window. The project navigator is selected. You can see its icon, a small folder, highlighted at the top of the pane.",
+                      "text": "Le navigateur correspond à la colonne située tout à gauche de la fenêtre Xcode. Le navigateur de projet est sélectionné. Vous pouvez voir son icône, un petit dossier, mise en surbrillance en haut du volet.",
                       "type": "text"
                     }
                   ],
@@ -2927,7 +2927,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "Here it’s showing the code from the ContentView file. When you select an item in the project navigator, its contents appear in the editor.",
+                      "text": "On voit ici le code du fichier ContentView. Lorsque vous sélectionnez un élément dans le navigateur de projet, son contenu s'affiche dans l'éditeur.",
                       "type": "text"
                     }
                   ],
@@ -2939,7 +2939,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "Next is the editor, where you write code.",
+                      "text": "Vient ensuite l'éditeur, où vous écrivez votre code.",
                       "type": "text"
                     }
                   ],
@@ -2955,7 +2955,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "You can use the buttons along the bottom to adjust preview options, like device size and light or dark appearance.",
+                      "text": "Vous pouvez utiliser les boutons situés en bas de l'écran pour régler les options d'aperçu, telles que la taille de l'appareil et le thème clair ou foncé.",
                       "type": "text"
                     }
                   ],
@@ -2967,7 +2967,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "The preview canvas is to the right of the editor. It shows what your app looks like on a device.",
+                      "text": "La zone d'aperçu se trouve à droite de l'éditeur. Elle affiche l'apparence de votre application sur un appareil.",
                       "type": "text"
                     }
                   ],
@@ -2985,7 +2985,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "To get more space for editing code, click the Adjust Editor Options button in the top right of the editor. Deselect Canvas in the popup menu to see the Canvas collapse while the editor expands. To restore the Canvas, reselect Canvas in the menu.",
+                      "text": "Pour disposer de plus d'espace pour modifier le code, cliquez sur le bouton « Adjust Editor Options » situé en haut à droite de l'éditeur. Désélectionnez « Canvas » dans le menu contextuel pour que la zone « Canvas » se réduise et que l'éditeur s'agrandisse. Pour rétablir la zone « Canvas », sélectionnez-la à nouveau dans le menu.",
                       "type": "text"
                     }
                   ],
@@ -2997,24 +2997,24 @@
               "type": "step"
             }
           ],
-          "title": "Explore the Xcode window"
+          "title": "Exporez la fenêtre Xcode"
         }
       ]
     },
     {
       "abstract": [
         {
-          "text": "Find out how the coding intelligence features in Xcode can help you write code, fix errors, generate documentation and navigate codebases.",
+          "text": "Découvrez comment les fonctionnalités d'intelligence de codage de Xcode peuvent vous aider à écrire du code, à corriger des erreurs, à générer de la documentation et à naviguer dans les bases de code.",
           "type": "text"
         }
       ],
       "action": {
         "identifier": "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift/Discover-coding-intelligence",
         "isActive": true,
-        "overridingTitle": "Get started",
+        "overridingTitle": "Commencer",
         "overridingTitleInlineContent": [
           {
-            "text": "Get started",
+            "text": "Commmencer",
             "type": "text"
           }
         ],
@@ -3023,7 +3023,7 @@
       "featuredEyebrow": "Tutorial",
       "kind": "callToAction",
       "media": "meet-xcode--hero-art.png",
-      "title": "New: Discover coding intelligence"
+      "title": "Nouveau: Découvrez le codage intelligent"
     }
   ],
   "variants": [
@@ -3040,7 +3040,7 @@
   ],
   "references": {
     "S1-header-art.png": {
-      "alt": "Illustration of a phone screen with a globe above the words hello world.",
+      "alt": "Illustration représentant l'écran d'un téléphone sur lequel figure un globe terrestre au-dessus de l'inscription « hello world ».",
       "identifier": "S1-header-art.png",
       "type": "image",
       "variants": [
@@ -3054,7 +3054,7 @@
       ]
     },
     "Xcode.png": {
-      "alt": "Xcode icon.",
+      "alt": "Icône de Xcode",
       "identifier": "Xcode.png",
       "type": "image",
       "variants": [
@@ -3068,7 +3068,7 @@
       ]
     },
     "common--project-save-create.png": {
-      "alt": "Screenshot showing the Save dialog for a new project, with the Create button highlighted.",
+      "alt": "Capture d'écran montrant la boîte de dialogue « Save » pour un nouveau projet, avec le bouton « Create » mis en évidence.",
       "identifier": "common--project-save-create.png",
       "type": "image",
       "variants": [
@@ -3089,7 +3089,7 @@
       ]
     },
     "common--project-save-options.png": {
-      "alt": "Screenshot showing the Save dialog for a new project, with the checkbox next to the Source Control option unselected.",
+      "alt": "Capture d'écran montrant la boîte de dialogue « Save » d'un nouveau projet, avec la case à cocher située à côté de l'option « Source Control » décochée.",
       "identifier": "common--project-save-options.png",
       "type": "image",
       "variants": [
@@ -3110,7 +3110,7 @@
       ]
     },
     "common--xcode-welcome-window-tahoe.png": {
-      "alt": "Screenshot showing the Welcome to Xcode window. Below the icon and welcome message are three buttons: Create New Project, Clone Git Repository, and Open Existing Project, with the first button highlighted.",
+      "alt": "Capture d'écran montrant la fenêtre « Welcome to Wcode ». Sous l'icône et le message de bienvenue se trouvent trois boutons : « Create New Project », « Clone Git Repository » et « Open Existing Project », le premier bouton étant mis en surbrillance.",
       "identifier": "common--xcode-welcome-window-tahoe.png",
       "type": "image",
       "variants": [
@@ -3133,42 +3133,42 @@
     "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift": {
       "abstract": [
         {
-          "text": "Develop in Swift Tutorials introduce app development with Swift and Xcode to anyone learning to build apps for Apple platforms.",
+          "text": "Les tutoriels de Développement Swift initient au développement d'applications avec Swift et Xcode tous ceux qui souhaitent apprendre à créer des applications pour les plateformes Apple.",
           "type": "text"
         }
       ],
       "identifier": "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift",
       "kind": "overview",
       "role": "overview",
-      "title": "Develop in Swift",
+      "title": "Développement Swift",
       "type": "topic",
       "url": "/tutorials/develop-in-swift"
     },
     "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift/Add-depth-to-your-app": {
       "abstract": [
         {
-          "text": "Start your journey into spatial computing development by building a window scene in visionOS using SwiftUI.",
+          "text": "Lancez-vous dans le développement de l'informatique spatiale en créant une scène de fenêtre dans visionOS à l'aide de SwiftUI.",
           "type": "text"
         }
       ],
       "identifier": "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift/Add-depth-to-your-app",
       "kind": "project",
       "role": "project",
-      "title": "Add depth to your app",
+      "title": "Ajoutez de la profondeur à votre app",
       "type": "topic",
       "url": "/tutorials/develop-in-swift/add-depth-to-your-app"
     },
     "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift/Add-depth-to-your-app#Add-color-pickers-to-your-app": {
       "abstract": [
         {
-          "text": "Start your journey into spatial computing development by building a window scene in visionOS using SwiftUI.",
+          "text": "Lancez-vous dans le développement de l'informatique spatiale en créant une fenêtre dans visionOS à l'aide de SwiftUI.",
           "type": "text"
         }
       ],
       "identifier": "doc://com.apple.DevelopInSwift/tutorials/Develop-in-Swift/Add-depth-to-your-app#Add-color-pickers-to-your-app",
       "kind": "section",
       "role": "pseudoSymbol",
-      "title": "Add color pickers to your app",
+      "title": "Ajoutez des sélecteurs de couleurs dans votre app.",
       "type": "section",
       "url": "/tutorials/develop-in-swift/add-depth-to-your-app#Add-color-pickers-to-your-app"
     },
