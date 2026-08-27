@@ -2717,7 +2717,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "In the project options dialog, enter “MeetXcode” next to Product Name.",
+                      "text": "Dans la boîte de dialogue des options du projet, saisissez « MeetXcode » à côté de « Product Name ».",
                       "type": "text"
                     }
                   ],
@@ -2733,7 +2733,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "For example, if your name is Sophie Sun, you would enter “com.sophiesun”. The organization identifier is required when you upload your app to the App Store.",
+                      "text": "Par exemple, si vous vous appelez Sophie Sun, vous devrez saisir « com.sophiesun ». L'identifiant d'organisation est obligatoire lorsque vous publiez votre application sur l'App Store.",
                       "type": "text"
                     }
                   ],
@@ -2752,7 +2752,7 @@
                           "type": "text"
                         },
                         {
-                          "text": "The App Store requires your organization identifier to be unique. It’s typically formatted as a reverse domain name such as “com.apple.”",
+                          "text": "L'App Store exige que l'identifiant de votre organisation soit unique. Il se présente généralement sous la forme d'un nom de domaine inversé, tel que « com.apple ».",
                           "type": "text"
                         }
                       ],
@@ -2769,7 +2769,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "Next to Organization Identifier, enter “com.<yourname>”.",
+                      "text": "À côté du champ « Organization Identifier », saisissez « com.<votrenom> ».",
                       "type": "text"
                     }
                   ],
@@ -2787,7 +2787,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "For this tutorial, don’t change the settings for Interface (SwiftUI), Language (Swift), Testing System (None), or Storage (None).",
+                      "text": "Pour ce tutoriel, ne modifiez pas les paramètres relatifs à l'interface (SwiftUI), au langage (Swift), au système de test (Aucun) ni au stockage (Aucun).",
                       "type": "text"
                     }
                   ],
@@ -2805,7 +2805,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "Click Next to go to the final dialog.",
+                      "text": "Cliquez sur « Suivant » pour accéder à la dernière boîte de dialogue.",
                       "type": "text"
                     }
                   ],
@@ -2821,7 +2821,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "For more information about source control in Xcode, see ",
+                      "text": "Pour plus d'informations sur le contrôle de version dans Xcode, consultez ",
                       "type": "text"
                     },
                     {
@@ -2830,7 +2830,7 @@
                       "type": "reference"
                     },
                     {
-                      "text": " in the developer documentation.",
+                      "text": " dans la documentation pour Développeurs",
                       "type": "text"
                     }
                   ],
@@ -2842,7 +2842,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "In the Save dialog, choose a location to save your project. Unselect the Source Control checkbox.",
+                      "text": "Dans la boîte de dialogue d'enregistrement, choisissez un emplacement pour enregistrer votre projet. Décochez la case « Contrôle de version ».",
                       "type": "text"
                     }
                   ],
@@ -2860,7 +2860,7 @@
                 {
                   "inlineContent": [
                     {
-                      "text": "Click Create to save and open your project.",
+                      "text": "Cliquez sur « Create » pour enregistrer et ouvrir votre projet.",
                       "type": "text"
                     }
                   ],
@@ -12371,10 +12371,10 @@
     },
     "https://developer.apple.com/documentation/xcode/source-control-management": {
       "identifier": "https://developer.apple.com/documentation/xcode/source-control-management",
-      "title": "Source control management",
+      "title": "Contrôle de Code Source",
       "titleInlineContent": [
         {
-          "text": "Source control management",
+          "text": "Contrôle de Code Source",
           "type": "text"
         }
       ],
